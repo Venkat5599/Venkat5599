@@ -49,14 +49,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Venkat5599&theme=2077" height="180em" />
   </a>
 </div>
-
 ---
-
-<h2 align="left">⚡ Activity Graph</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Venkat5599&theme=react-dark" />
-</div>
-
 ---
 
 # 📊 GitHub Stats:
