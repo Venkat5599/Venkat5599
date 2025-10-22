@@ -9,7 +9,7 @@
 
 # 💫 About Me:
 💻 Love building projects that combine **creativity and security**  
-🔐 Exploring **secure coding practices, ethical hacking**, and **modern web technologies**  
+🔐 Exploring **secure coding practices, ethical hacking**, **modern web technologies** ,**AI/ML** and **web3**   
 🌱 Actively contributing to **Open Source** communities and learning from developers worldwide  
 
 ---
