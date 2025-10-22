@@ -14,35 +14,6 @@
 
 ---
 
-## 🌐 Web Development
-- Skilled in **HTML, CSS, JavaScript**  
-- Learning **React, Node.js, Express, MongoDB**  
-- Interested in creating **scalable and secure web applications**
-
----
-
-## 🛡️ Cybersecurity
-- Enthusiastic about **ethical hacking & penetration testing**  
-- Exploring **OWASP Top 10**, **web vulnerabilities**, and **secure coding**  
-- Love participating in **CTFs** and **security challenges**
-
----
-
-## 🤝 Open Source Contributions
-- Actively exploring projects to contribute to on GitHub  
-- Focused on **security-focused** and **developer tool** projects  
-- Goal: Contribute to **OWASP** and **GSoC** programs  
-
----
-
-## 📚 Currently Learning
-- Advanced **JavaScript & Backend frameworks**  
-- **Application Security** & **Secure Development Lifecycle (SDLC)**  
-- **Automation tools** for web security testing  
-- Best practices for **open source collaboration**
-
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://x.com/Archuser__" target="_blank">
