@@ -5,14 +5,10 @@
 
 <img align="right" alt="Coding" width="335" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
----
-
 # 💫 About Me:
 💻 Love building projects that combine **creativity and security**  
 🔐 Exploring **secure coding practices, ethical hacking**, **modern web technologies** ,**AI/ML** and **web3**   
 🌱 Actively contributing to **Open Source** communities and learning from developers worldwide  
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,11 +32,5 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Venkat5599&theme=2077" height="180em" />
   </a>
 </div>
----
----
----
-
 [![](https://visitcount.itsvg.in/api?id=Venkat5599&icon=0&color=0)](https://visitcount.itsvg.in)  
-[![An image of @venkat5599's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/venkat5599)](https://holopin.io/@venkat5599)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
