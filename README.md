@@ -22,14 +22,5 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
-<h3 align="center">📊 Statistics</h3>
-<div align="center">
-  <a href="https://github.com/Venkat5599">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Venkat5599&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Venkat5599&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Venkat5599&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Venkat5599&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Venkat5599&theme=2077" height="180em" />
-  </a>
-</div>
+
 
