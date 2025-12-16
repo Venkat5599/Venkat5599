@@ -1,10 +1,10 @@
-![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZndWFzY3NuOWNhbXgxZGRrbzBsNmxvYjN1cmxieW91aXR3YjdoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JLYQnbND9gkYU/giphy.gif)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlrZXg5enJpeXVxcHRucHkwNGJzMWI1YnpkeHY1b2R0Y3U1NzF3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif" width="45%" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDR4a2ZrcTdwZzRyNXRicGdtbDNiNDJ3ZXZhZXV4bm83dmRtNG9iZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpSc0bp7LmGC4/giphy.gif" width="45%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Venkat</h1>
 <h3 align="center">Web3, Cybersecurity & Open Source</h3>
-
-<img align="right" alt="Coding" width="335"
-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:
 💻 Love building projects that combine **creativity and security**  
