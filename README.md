@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 💻 Love building projects that combine **creativity and security**  
-🔐 Exploring **secure coding practices,  **working on cool stuff everyday**  
+🔐 Exploring secure coding practices,  **working on cool stuff everyday**  
 🌱 Actively contributing to **Open Source** communities and learning from developers worldwide  
 
 <h3 align="left">Connect with me:</h3>
