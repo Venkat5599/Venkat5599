@@ -5,7 +5,9 @@
 
 <h1 align="center">Hi , I'm Venkat</h1>
 <h3 align="center">Web3, Cybersecurity & Open Source</h3>
-![Visitor Count](https://profile-counter.glitch.me/Venkat5599/count.svg)
+
+![Visitor Count](https://profile-counter.glitch.me/{Venkat5599}/count.svg)
+
 # 💫 About Me:
 💻 Love building projects that combine **creativity and security**  
 🔐 Exploring secure coding practices,  **working on cool stuff everyday**  
