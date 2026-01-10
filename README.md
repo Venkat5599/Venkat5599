@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlrZXg5enJpeXVxcHRucHkwNGJzMWI1YnpkeHY1b2R0Y3U1NzF3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif" width="45%" />
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDR4a2ZrcTdwZzRyNXRicGdtbDNiNDJ3ZXZhZXV4bm83dmRtNG9iZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpSc0bp7LmGC4/giphy.gif" width="45%" />
 </p>
 
 <h1 align="center">Hi , I'm Venkat</h1>
