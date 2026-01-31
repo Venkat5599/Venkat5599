@@ -2,8 +2,7 @@
 </p>
 
 <h1 align="center">Hi , I'm Venkat</h1>
-<h3 align="center">Web3, Cybersecurity & Open Source</h3>
-
+<h3 align="center"> i like to  on-chain stuff  & Open Source</h3>
 
 # 💫 About Me:
 💻 Love building projects that combine **creativity and security**  
