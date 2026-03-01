@@ -8,7 +8,7 @@
 💻 Love building projects that combine **creativity and security**  
 🔐 Exploring secure coding practices,  **working on cool stuff everyday**  
 🌱 Actively contributing to **Open Source** communities and learning from developers worldwide  
-
+#  1x hackathon winner solo against 191 full teams-  x402 cronos hackathon 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://x.com/Archuser__" target="_blank">
