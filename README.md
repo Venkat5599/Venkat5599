@@ -1,5 +1,5 @@
 <h1 align="center">Venkata Ramana</h1>
-<p align="center">Web3 Developer | Open Source</p>
+<p align="center">Web3 Developer | DevOps | AI | Open Source</p>
 
 ---
 
