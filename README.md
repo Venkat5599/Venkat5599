@@ -1,36 +1,36 @@
 <h1 align="center">Venkat</h1>
-<p align="center">Web3 Developer | Cybersecurity | Open Source</p>
+<p align="center">Web3 Developer | Open Source</p>
 
 ---
 
-## About
+## Profile
 
 <table>
 <tr>
-<td><strong>Focus</strong></td>
-<td>Building secure and scalable on-chain applications</td>
+<td><strong>Specialization</strong></td>
+<td>On-chain application development and decentralized systems</td>
 </tr>
 <tr>
-<td><strong>Interests</strong></td>
-<td>Smart contract security, MEV systems, privacy and ZK protocols</td>
+<td><strong>Areas of Interest</strong></td>
+<td>MEV-resistant systems, privacy protocols, zero-knowledge architectures</td>
 </tr>
 <tr>
-<td><strong>Work Style</strong></td>
-<td>Project-driven development with emphasis on real-world implementations</td>
+<td><strong>Approach</strong></td>
+<td>Building production-oriented systems with focus on performance and scalability</td>
 </tr>
 <tr>
 <td><strong>Community</strong></td>
-<td>Active contributor to open source and hackathons</td>
+<td>Active in open source contributions and global hackathons</td>
 </tr>
 </table>
 
 ---
 
-## Technical Skills
+## Technical Stack
 
 <table>
 <tr>
-<th>Category</th>
+<th>Domain</th>
 <th>Technologies</th>
 </tr>
 <tr>
@@ -38,7 +38,7 @@
 <td>Solidity, Foundry, Hardhat, Solana, Anchor, Rust</td>
 </tr>
 <tr>
-<td>Web</td>
+<td>Frontend</td>
 <td>React, Next.js, Tailwind CSS, shadcn/ui</td>
 </tr>
 <tr>
@@ -47,60 +47,53 @@
 </tr>
 <tr>
 <td>Backend</td>
-<td>Node.js, Serverless Architecture</td>
+<td>Node.js, Express.js, REST APIs, WebSockets, Authentication (JWT, OAuth)</td>
+</tr>
+<tr>
+<td>Databases</td>
+<td>PostgreSQL, MySQL, Redis</td>
+</tr>
+<tr>
+<td>Infrastructure</td>
+<td>Docker, CI/CD, Linux, Nginx</td>
 </tr>
 <tr>
 <td>Tools</td>
-<td>Linux, Git, Neovim, Docker, Bun</td>
+<td>Git, Neovim, Bun</td>
 </tr>
 </table>
 
 ---
 
-## Current Focus
+## Hackathon Achievements
 
 <table>
 <tr>
-<td>MEV-resistant architectures</td>
+<th>Hackathon</th>
+<th>Achievement</th>
+<th>Prize</th>
 </tr>
 <tr>
-<td>Privacy-preserving systems</td>
+<td>Cronos x402 Hackathon</td>
+<td>Winner</td>
+<td>3000 USDC</td>
 </tr>
 <tr>
-<td>Secure smart contract design</td>
+<td>Polkadot Hackathon</td>
+<td>Winner</td>
+<td>500 USDC</td>
 </tr>
 </table>
 
 ---
 
-## Projects
+## Current Work
 
 <table>
-<tr>
-<th>Project</th>
-<th>Description</th>
-</tr>
-<tr>
-<td>MonoPay (WIP)</td>
-<td>Private payment system on Solana with identity layer</td>
-</tr>
-<tr>
-<td>ZKID Gate</td>
-<td>Privacy-preserving compliance and credential verification system</td>
-</tr>
-<tr>
-<td>SoulBound</td>
-<td>Non-transferable NFT system for permanent digital relationships</td>
-</tr>
+<tr><td>Designing MEV-resistant transaction systems</td></tr>
+<tr><td>Developing privacy-preserving on-chain applications</td></tr>
+<tr><td>Building high-performance decentralized applications</td></tr>
 </table>
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-</p>
 
 ---
 
@@ -113,10 +106,10 @@
 </tr>
 <tr>
 <td>LinkedIn</td>
-<td><a href="https://www.linkedin.com/in/venkata-ramana-komari-402058316/">LinkedIn Profile</a></td>
+<td><a href="https://www.linkedin.com/in/venkata-ramana-komari-402058316/">https://www.linkedin.com/in/venkata-ramana-komari-402058316/</a></td>
 </tr>
 <tr>
 <td>Instagram</td>
-<td><a href="https://www.instagram.com/venkatsunny56/">Instagram</a></td>
+<td><a href="https://www.instagram.com/venkatsunny56/">https://www.instagram.com/venkatsunny56/</a></td>
 </tr>
 </table>
