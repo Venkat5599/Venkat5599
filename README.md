@@ -87,16 +87,6 @@
 
 ---
 
-## Current Work
-
-<table>
-<tr><td>Designing MEV-resistant transaction systems</td></tr>
-<tr><td>Developing privacy-preserving on-chain applications</td></tr>
-<tr><td>Building high-performance decentralized applications</td></tr>
-</table>
-
----
-
 ## Contact
 
 <table>
