@@ -1,4 +1,4 @@
-<h1 align="center">Venkat</h1>
+<h1 align="center">Venkata Ramana</h1>
 <p align="center">Web3 Developer | Open Source</p>
 
 ---
