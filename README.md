@@ -65,13 +65,13 @@
 
 ---
 
-## Hackathon Achievements
+## Achievements
 
 <table>
 <tr>
-<th>Hackathon</th>
+<th>Program</th>
 <th>Achievement</th>
-<th>Prize</th>
+<th>Reward</th>
 </tr>
 <tr>
 <td>Cronos x402 Hackathon</td>
@@ -83,7 +83,30 @@
 <td>Winner</td>
 <td>500 USDC</td>
 </tr>
+<tr>
+<td>Portaldot Hackathon</td>
+<td>Winner</td>
+<td>500 USDC</td>
+</tr>
+<tr>
+<td>Superteam Solana Grant</td>
+<td>Grant Recipient</td>
+<td>200 USDG</td>
+</tr>
 </table>
+
+---
+
+## Focus Areas
+
+- Decentralized Applications (dApps)
+- Smart Contract Development
+- DeFi Infrastructure
+- Zero-Knowledge Systems
+- MEV Mitigation
+- Privacy-Preserving Protocols
+- DevOps & Cloud Infrastructure
+- AI-Powered Web3 Applications
 
 ---
 
