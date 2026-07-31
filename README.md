@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 style="font-family: 'PP NeueBit';">Venkata Ramana</h1>
+<h1 align ="centre" >Venkata Ramana</h1>
 <p align="center">Web3 Developer | DevOps | AI | Open Source</p>
 
 ---
