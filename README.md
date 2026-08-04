@@ -130,6 +130,3 @@
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://pbs.twimg.com/media/HIa4NclWoAA3-5j?format=png&name=4096x4096" alt="Banner" width="100%">
-</p>
