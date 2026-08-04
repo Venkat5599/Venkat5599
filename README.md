@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://pbs.twimg.com/media/HKrZtD4XwAAfWB7?format=png&name=4096x4096" alt="Banner" width="100%" />
-</p>
+
 
 
 <h1 align="center">Venkata Ramana</h1>
