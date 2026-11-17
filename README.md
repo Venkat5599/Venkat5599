@@ -89,7 +89,7 @@
 <tr>
 <td>Portaldot Hackathon</td>
 <td>Winner</td>
-<td>500 USDC</td>
+<td>500 USDC + 800 USDT</td>
 </tr>
 <tr>
 <td>Superteam Solana Grant</td>
