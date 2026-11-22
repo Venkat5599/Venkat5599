@@ -99,7 +99,7 @@
 <tr>
   <td>  TrendSpider Hackathon </td>
   <td>winner</td>
-  <td> 250 usd</td>
+  <td> 250 USD</td>
 </tr>
 </table>
 
