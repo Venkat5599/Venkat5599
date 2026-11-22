@@ -87,7 +87,7 @@
 <td>500 USDC</td>
 </tr>
 <tr>
-<td>Portaldot Hackathon</td>
+<td>2x Portaldot Online Mini Hackathon S1 and S2</td>
 <td>Winner</td>
 <td>500 USDC + 800 USDT</td>
 </tr>
