@@ -96,22 +96,15 @@
 <td>Grant Recipient</td>
 <td>200 USDG</td>
 </tr>
+<tr>
+  <td>  TrendSpider Hackathon </td>
+  <td>winner</td>
+  <td> 250 usd</td>
+</tr>
 </table>
 
 ---
 
-## Focus Areas
-
-- Decentralized Applications (dApps)
-- Smart Contract Development
-- DeFi Infrastructure
-- Zero-Knowledge Systems
-- MEV Mitigation
-- Privacy-Preserving Protocols
-- DevOps & Cloud Infrastructure
-- AI-Powered Web3 Applications
-
----
 
 ## Contact
 
