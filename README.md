@@ -68,7 +68,7 @@
 
 ---
 
-## Achievements
+## Achievements (solo wins against full teams)
 
 <table>
 <tr>
