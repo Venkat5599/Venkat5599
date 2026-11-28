@@ -101,6 +101,14 @@
   <td>winner</td>
   <td> 250 USD</td>
 </tr>
+  <tr>
+    <td>
+      SERV Hackathon 02
+    </td>
+    <td>
+      500 usdc
+    </td>
+  </tr>
 </table>
 
 ---
