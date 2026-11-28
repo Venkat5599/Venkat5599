@@ -6,7 +6,7 @@
 
 ---
 
-## Profile
+## profile
 
 <table>
 <tr>
@@ -68,7 +68,7 @@
 
 ---
 
-## Achievements (solo wins against full teams)
+## global achievements 
 
 <table>
 <tr>
@@ -117,7 +117,7 @@
 ---
 
 
-## Contact
+## contact
 
 <table>
 <tr>
